@@ -1,0 +1,33 @@
+
+
+		p{
+			color: #black;
+			font-size: 30px;
+			font-family: ;
+			margin: 10%;
+			padding: 0;
+			box-sizing:border-box ;
+
+		}
+		h1{
+			color: darkred;
+			font-size: 35px;
+			
+		}
+		div	{
+			width: 80%;
+			margin: auto;
+			background-color:grey ;
+			
+
+		}	
+		a{
+			font-size: 30px;
+		}
+		
+
+ img{
+max-width: 90%;
+height: auto;
+display: block;
+ }
