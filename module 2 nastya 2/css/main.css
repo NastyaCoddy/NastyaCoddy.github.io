@@ -1,0 +1,55 @@
+.img-box{
+	column-count: 4;
+	column-gap: 10px;
+	width: 95%;
+	max-width: 10100px;
+	margin: auto;
+}
+.image{
+	max-width: 100%;
+	display: block;
+
+}
+.img_link{
+	display: block;
+	opacity: 0.8;
+	transition: 0.4s;
+	filter: blur(1px);
+}
+
+.img_link+.img_link{
+	margin: 3px;
+}
+.img_link:hover{
+	opacity: 1;
+	filter: blur(0);
+	filter: sepia(1.5);
+	filter: brightness(2.7);
+
+	
+}
+@font-face(
+     font-family:  Marck Script ;
+    
+
+)
+.heading{
+
+	text-align-center : ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
